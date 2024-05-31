@@ -1,0 +1,41 @@
+.form-control-dark {
+    border-color: var(--bs-gray);
+}
+.form-control-dark:focus {
+    border-color: #fff;
+    box-shadow: 0 0 0 .25rem rgba(101, 89, 89, 0.25);
+} 
+.text-small {
+    font-size: 85%;
+}
+.dropdown-toggle:not(:focus) {
+    outline: 0;
+}
+.container img{
+    width: 100px;
+    height: 100px;
+}  
+body{
+    background-color: black !important;
+}
+.wrapper{
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.paragraf{
+    color: white;
+    font-family: "Jost", sans-serif;
+    font-size: 18px;
+    text-align: center;
+    margin: 100px;
+    margin-right: 100px;
+    display: flex;
+    font-style: italic;
+}
+.custom-footer-text{
+    color: white; 
+}
+.custom-footer-link{
+    color: white !important; 
+}
+
